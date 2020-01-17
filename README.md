@@ -37,4 +37,4 @@ https://www.atlassian.com/git/tutorials Become a Git Guru series.
 
 https://learngitbranching.js.org/ Interactive Git Playground
 
-All images used belong to their respective owneers.
+All images used belong to their respective owners.
